@@ -1,0 +1,18 @@
+﻿  mainhuffman.cpp
+c:\users\sim\source\repos\bubblesort\mainhuffman\mainhuffman.cpp(174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+c:\users\sim\source\repos\bubblesort\mainhuffman\mainhuffman.cpp(250): warning C4267: '=': 'size_t'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\sim\source\repos\bubblesort\mainhuffman\mainhuffman.cpp(272): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\sim\source\repos\bubblesort\mainhuffman\mainhuffman.cpp(239): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\sim\source\repos\bubblesort\mainhuffman\mainhuffman.cpp(241): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\sim\source\repos\bubblesort\mainhuffman\mainhuffman.cpp(387): warning C4309: '초기화 중': 상수 값이 잘립니다.
+c:\users\sim\source\repos\bubblesort\mainhuffman\mainhuffman.cpp(323): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\sim\source\repos\bubblesort\mainhuffman\mainhuffman.cpp(324): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\sim\source\repos\bubblesort\mainhuffman\mainhuffman.cpp(423): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\sim\source\repos\bubblesort\mainhuffman\mainhuffman.cpp(225): warning C4715: 'findCode': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  mainHuffman.vcxproj -> C:\Users\Sim\source\repos\bubbleSort\Debug\mainHuffman.exe
